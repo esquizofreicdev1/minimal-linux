@@ -19,3 +19,14 @@ Implemented for debian based distros (ubuntu,etc) not tested with gentoo and oth
 
 Happy hacking!
 
+Working?.
+
+SCSI:
+SATA
+IDE
+SOUND:not working(enable it).
+ETHERNET(various drivers enabled (tygon3, intel pro 100, REALTEK RTL8669)
+WIFI:not activated(enable it).
+PHY: activated.
+Initial ram disk compression:per default GZIP format(optimised for loading via network PXE boot).
+Support for loading to RAM?:yes.
